@@ -1,0 +1,56 @@
+*{
+    color:white;
+}
+.navbar{
+   top:0px;
+   height:0px;
+}
+.navbar li{
+    display:inline-block;
+    list-style:none;
+    margin-right:3%;
+}
+.navbar .name{
+    margin-right: 50%;
+}
+button{
+    background-color:transparent;
+    display:inline-block;
+    width: 150px;
+    height:50px;
+    border-radius:40px;
+    border:1px solid lightseagreen;
+}
+button:hover{
+    background-color: lightseagreen;
+}
+.navbar li a{
+    text-decoration:none;
+}
+.navbar li a:hover{
+    border-bottom: 2px solid lightseagreen;
+}
+.body{
+    position:relative;
+    top:250px;
+    left:30%;
+}
+body{
+    background-image: url(https://thearchitecturedesigns.com/wp-content/uploads/2018/11/16-black-brick-wall-interior.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(8, 117, 48, 6.8);
+}
+.name{
+    font-size:50px;
+}
+h1{
+    font-size:55px;
+}
+p{
+    padding-right: 1270px;
+}
+.buttonclass{
+    padding-right: 1250px;
+    text-align:center;
+}
