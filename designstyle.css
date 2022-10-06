@@ -1,9 +1,12 @@
 *{
     color:white;
 }
+ul{
+    margin-top:0px;
+}
 .navbar{
-   top:0px;
-   height:0px;
+   padding-top: 0px;
+   height:10px;
 }
 .navbar li{
     display:inline-block;
@@ -32,7 +35,7 @@ button:hover{
 }
 .body{
     position:relative;
-    top:250px;
+    top:210px;
     left:30%;
 }
 body{
@@ -48,9 +51,9 @@ h1{
     font-size:55px;
 }
 p{
-    padding-right: 1270px;
+    padding-right: 800px;
 }
 .buttonclass{
-    padding-right: 1250px;
+    padding-right: 800px;
     text-align:center;
 }
